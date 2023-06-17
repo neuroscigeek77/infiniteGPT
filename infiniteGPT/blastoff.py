@@ -4,7 +4,7 @@ import tiktoken
 
 # Add your own OpenAI API key
 
-openai.api_key = "sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "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"
 
 def load_text(file_path):
     with open(file_path, 'r') as file:
